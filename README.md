@@ -1,3 +1,6 @@
+Reference: https://medium.com/@ipvikas/using-phidata-agentic-ai-chatbot-design-972fda07d4bf
+
+
 Agentic AI applications are AI systems that can act autonomously, make decisions, and pursue goals with minimal human intervention. Unlike traditional AI models that passively respond to queries (e.g., chatbots or recommendation engines), agentic AI applications can take proactive steps, adapt to dynamic environments, and even improve their performance over time.
 
 Key Characteristics of Agentic AI:
